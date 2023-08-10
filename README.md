@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! Welcome to My Github Page!<br><br>My name is Berat Batuhan Kaygusuz.<br><br>I'm Front-End Developer.<br><br>Computer Engineering - Degree Program | Trakya University<br><br>Computer Programming - Associate Degree Program | Esenyurt University<br><br>Talking About Personal Stuffs:<br><br>I know HTML, CSS, Bootstrap,TypeScript<br><br>I'm learning JavaScript and TypeScript trying to improve myself.<br><br>Connect with me!!
+Hi there! Welcome to My Github Page!<br><br>My name is Berat Batuhan Kaygusuz.<br><br>I'm Front-End Developer.<br><br>Computer Engineering - Degree Program | Trakya University<br><br>Computer Programming - Associate Degree Program | Esenyurt University<br><br>Talking About Personal Stuffs:<br><br>I know JavaScript,TypeScript<br><br>I'm learning Angular and React trying to improve myself.<br><br>Connect with me!!
 
 
 ## 🌐 Socials:
