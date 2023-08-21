@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! Welcome to My Github Page!<br><br>My name is Berat Batuhan Kaygusuz.<br><br>I'm Software Developer.<br><br>Computer Engineering - Degree Program | Trakya University<br><br><br><br>Talking About Personal Stuffs:<br><br>I know JavaScript,TypeScript<br><br>I'm learning Angular and React trying to improve myself.<br><br>Connect with me!!
+Hi there! Welcome to My Github Page!<br><br>My name is Berat Batuhan Kaygusuz.<br><br>I'm Software Developer.<br><br>Computer Engineering - Degree Program | Trakya University<br><br>Talking About Personal Stuffs:<br><br>I know JavaScript,TypeScript<br><br>I'm learning Angular and React trying to improve myself.<br><br>Connect with me!!
 
 
 ## 🌐 Socials:
